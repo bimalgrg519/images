@@ -1,5 +1,5 @@
 {
-    "s": "node node_modules/react-native/local-cli/cli.js start",
+    "s": "react-native start",
     "R": "adb reverse tcp:8081 tcp:8081",
     "a": "react-native run-android",
     "ar": "react-native run-android --variant=release",
